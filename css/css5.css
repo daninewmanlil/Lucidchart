@@ -1,0 +1,45 @@
+*{
+    margin: 0px;
+    padding:0px;
+    
+}
+div#header{
+    margin:auto; 
+    width: 100%;
+    height: 100px;
+    background-color: white;
+    
+}
+div#body{
+    margin: auto;
+    margin-bottom:0px ; 
+    width: 100%;
+    height: 2100px;
+    background-color: black; 
+    
+}
+
+div#img{
+    margin-top: 25px;
+    margin-right: 150px;
+    margin-left: 40px;
+    float: right;
+    width: 300px;
+}
+
+div#parrafo{
+    margin-top:50px;
+   margin-left: 100px;
+   width: 550px;
+    
+}
+
+div#footer{
+    margin: auto;
+    margin-bottom:0px ; 
+    width: 100%;
+    height: 100px;
+    background-color: orange;  
+}
+
+

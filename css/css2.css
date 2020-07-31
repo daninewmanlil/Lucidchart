@@ -1,0 +1,35 @@
+
+*{
+    margin: 0px;
+    padding:0px;
+}
+div#header{
+    margin:auto; 
+    width: 100%;
+    height: 100px;
+    background-color: white;
+    
+}
+div#body{
+    margin: auto;
+    margin-bottom:0px ; 
+    width: 100%;
+    height:1800px;
+    background-color: black; 
+   
+    
+}
+div#parrafos{
+    width: 550px;
+    float: left;
+    margin-left:75px;
+    
+}
+
+div#footer{
+    margin: auto;
+    margin-bottom:0px ; 
+    width: 100%;
+    height:100px;
+    background-color: orange;  
+}
